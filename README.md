@@ -76,7 +76,7 @@
 
   [![Neuroia](https://github.com/Lazeenyzn/SYNC-Project.git)
 
-  [![LojaPezo](https://github-readme-stats.vercel.app/api/pin/?username=Lazeenyzn&repo=lojapezo&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333)](https://github.com/Lazeenyzn/lojapezo)
+  [![LojaPezo](https://github-readme-stats.vercel.app/api/pin/?username=Lazeenyzn&repo=lojapezo&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=333333)](https://github.com/Lazeenyzn/SYNC-Project.git)
 
 </div>
 

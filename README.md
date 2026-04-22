@@ -33,7 +33,6 @@
   ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Godot](https://img.shields.io/badge/Godot_4-000?style=for-the-badge&logo=godotengine&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
@@ -88,9 +87,8 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Lazeenyzn)
-  [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-  [![Workana](https://img.shields.io/badge/Workana-000?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.workana.com/freelancer/seu-perfil)
+  [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zeenyzn01@gmail.com)
+  [![Workana](https://img.shields.io/badge/Workana-000?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.workana.com/freelancer/6efcdb22dffc15f1ae065c030b14263f)
 
 </div>
 

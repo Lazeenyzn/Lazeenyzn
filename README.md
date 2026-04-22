@@ -5,7 +5,7 @@
 
   <!-- Typing SVG - efeito digitando -->
   <a href="https://github.com/Lazeenyzn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Estudante+de+TI;Dev+Web+%7C+Game+Dev;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Estudante+de+TI;Dev+Web+%7C+Game+Dev;Sync+CEO" alt="Typing SVG" />
   </a>
 
 </div>

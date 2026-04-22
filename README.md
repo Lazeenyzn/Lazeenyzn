@@ -25,7 +25,7 @@
 ---
 
 <!-- SKILLS -->
-## Tecnologias & Ferramentas
+< ESTUDANDO >
 
 <div align="center">
 

@@ -25,7 +25,7 @@
 ---
 
 <!-- SKILLS -->
-< ESTUDANDO >
+## < ESTUDANDO >
 
 <div align="center">
 

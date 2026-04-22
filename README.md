@@ -5,7 +5,7 @@
 
   <!-- Typing SVG - efeito digitando -->
   <a href="https://github.com/Lazeenyzn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Estudante+de+TI+%F0%9F%92%BB;Dev+Web+%7C+Game+Dev;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=Estudante+de+TI;Dev+Web+%7C+Game+Dev;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
   </a>
 
 </div>
@@ -13,13 +13,13 @@
 ---
 
 <!-- SOBRE MIM -->
-## ` whoami `
+## ` ZENIM `
 
 ```
 > Enzo | Salto, SP — Brasil
-> Cursando Informática / Análise de Sistemas no IF
-> Desenvolvendo projetos web e indie games com Godot 4
-> Explorando freelance e ferramentas com IA
+> Cursando Informática / Cybersecurit
+> Desenvolvendo projetos Programas e indie games
+> Explorando TODO MUNDO DE INFORMATICA POSSIVEL!
 ```
 
 ---
@@ -29,14 +29,12 @@
 
 <div align="center">
 
-  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Godot](https://img.shields.io/badge/Godot_4-000?style=for-the-badge&logo=godotengine&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
